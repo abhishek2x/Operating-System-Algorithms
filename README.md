@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ## Operating-System-Algorithms
@@ -30,6 +29,9 @@
   - Zoombie Process
   - Orphan Process
 
+- **Problems**
+  - Memory Leak
+  - Dangling Pointer
 
 - **Swapping Algorithms** - *Get page from Secondary memory*
   - Optimal Page Replacement Algorithm
