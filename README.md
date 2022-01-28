@@ -33,7 +33,7 @@
   - Memory Leak
   - Dangling Pointer
 
-- **Swapping Algorithms** - *Get page from Secondary memory*
+- **Swapping Algorithms**
   - Optimal Page Replacement Algorithm
   - First In First Out
   - Least Recently Used Algorithm
